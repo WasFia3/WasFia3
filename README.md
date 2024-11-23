@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java | Web development | Python
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me IG: helianthus04 | FB: Wasfia Salam 
-- 😄 Pronouns: Km/second cause i want to kms
+- 😄 Pronouns: km/second cause i want to kms
 - ⚡ Fun fact: I'm a mix of logic and artisty
 
 <!---
