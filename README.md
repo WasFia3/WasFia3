@@ -1,5 +1,5 @@
-<h1 align="center">Hello, this is WasFia :D</h1>
-<h3 align="center">Bringing ideas to life, one line of code at a time!</h3>
+<h1 align="center">Hello, this is WasFia ฅᨐฅ </h1>
+<h3 align="center">˚‧｡⋆🌻⋆｡‧˚ Bringing ideas to life, one line of code at a time! ˚‧｡⋆🌻⋆｡‧˚</h3>
 <hr>
 
 <p align="center">
@@ -25,7 +25,7 @@
 <hr>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<br>
+
 
 <h4>💻 Programming Languages:</h4>
 <p align="left"> 
@@ -35,13 +35,13 @@
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
 </p>
-<br>
+<hr>
 
 <h4>🗄️ Databases:</h4>
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
 </p>
-<br>
+<hr>
 
 <h4>🛠️ Tools & Platforms:</h4>
 <p align="left"> 
@@ -49,7 +49,7 @@
   <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
 </p>
-<br>
+<hr>
 
 <h4>🎨 Design Tools:</h4>
 <p align="left"> 
@@ -59,10 +59,23 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<br>
+<hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasfia3&show_icons=true&locale=en&layout=compact" alt="wasfia3" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasfia3&" alt="wasfia3" /></p>
 <hr>
 
-<h3 align="center">✨ Let's code something amazing together! ✨</h3>
+<h3 align="center">⠀⠀⠀⢸⣦⡀⠀⠀⠀⠀⢀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢸⣏⠻⣶⣤⡶⢾⡿⠁⠀⢠⣄⡀⢀⣴⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣀⣼⠷⠀⠀⠁⢀⣿⠃⠀⠀⢀⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠴⣾⣯⣅⣀⠀⠀⠀⠈⢻⣦⡀⠒⠻⠿⣿⡿⠿⠓⠂⠀⠀⢀⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠉⢻⡇⣤⣾⣿⣷⣿⣿⣤⠀⠀⣿⠁⠀⠀⠀⢀⣴⣿⣿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠸⣿⡿⠏⠀⢀⠀⠀⠿⣶⣤⣤⣤⣄⣀⣴⣿⡿⢻⣿⡆⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠟⠁⠀⢀⣼⠀⠀⠀⠹⣿⣟⠿⠿⠿⡿⠋⠀⠘⣿⣇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢳⣶⣶⣿⣿⣇⣀⠀⠀⠙⣿⣆⠀⠀⠀⠀⠀⠀⠛⠿⣿⣦⣤⣀⠀⠀
+⠀⠀⠀⠀⠀⠀⣹⣿⣿⣿⣿⠿⠋⠁⠀⣹⣿⠳⠀⠀⠀⠀⠀⠀⢀⣠⣽⣿⡿⠟⠃
+⠀⠀⠀⠀⠀⢰⠿⠛⠻⢿⡇⠀⠀⠀⣰⣿⠏⠀⠀⢀⠀⠀⠀⣾⣿⠟⠋⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠀⠀⣰⣿⣿⣾⣿⠿⢿⣷⣀⢀⣿⡇⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠋⠉⠁⠀⠀⠀⠀⠙⢿⣿⣿⠇⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀</h3>
