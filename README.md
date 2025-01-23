@@ -11,8 +11,8 @@
 <li>🌟 Passionate developer with experience in <strong>Java</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and more. </li><br>
 <li>💻 Always excited to learn new technologies and bring creative solutions to life.</li> <br>
 <li>🎨 A digital artist, so i'm blending creativity with logic in all my projects.</li> <br>
-<li>🌱 Currently exploring new tools and frameworks to sharpen my skillset.</li> 
-<li>🎓 Studying <strong>Computer Science</strong> at <strong>Birzeit University</strong>.</li>
+<li>🌱 Currently exploring new tools and frameworks to sharpen my skillset.</li> <br>
+<li>🎓 Studying <strong>Computer Science</strong> at <strong>Birzeit University</strong>.</li> <br>
 </p>
 <hr>
 
