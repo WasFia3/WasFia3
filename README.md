@@ -9,10 +9,10 @@
 
 <h3 align="left">🚀 About Me:</h3>
 <p align="left"> 
-🌟 Passionate developer with experience in <strong>Java</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and more. <br>
-💻 Always eager to learn new technologies and bring creative solutions to life. <br>
-🎨 A digital artist at heart, blending creativity with logic in all my projects. <br>
-🌱 Currently exploring new tools and frameworks to sharpen my skillset. 
+<li>🌟 Passionate developer with experience in <strong>Java</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and more. </li><br>
+<li>💻 Always eager to learn new technologies and bring creative solutions to life.</li> <br>
+<li>🎨 A digital artist at heart, blending creativity with logic in all my projects.</li> <br>
+<li>🌱 Currently exploring new tools and frameworks to sharpen my skillset.</li> 
 </p>
 <br>
 
