@@ -57,9 +57,9 @@
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop" width="40" height="40"/>
 </p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
 <hr>
+<h3 align="left">📊 GitHub Stats:</h3>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasfia3&show_icons=true&locale=en&layout=compact" alt="wasfia3" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasfia3&" alt="wasfia3" /></p>
