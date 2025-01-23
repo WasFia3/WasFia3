@@ -1,6 +1,6 @@
 <h1 align="center">Hello, this is WasFia :D</h1>
 <h3 align="center">Bringing ideas to life, one line of code at a time!</h3>
-<br>
+<hr>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" width="400"/>
