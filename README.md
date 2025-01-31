@@ -17,12 +17,7 @@
 <li>💻 Always excited to learn new technologies and bring creative solutions to life.</li> <br>
 <li>🎨 A digital artist, so I'm blending creativity with code in all my projects.</li> <br>
 <li>🌱 Currently exploring new tools and frameworks to sharpen my skillset.</li> <br>
-<li>🎓 Studying <strong>Computer Science</strong> at 
-    <strong>Birzeit University</strong> 
-    <span style="display: inline-block; margin-top: 3px;"> 
-        <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/Birzeit_University_logo.svg.png" alt="Birzeit University Logo" width="30" height="35"/>
-    </span>
-</li> <br>
+<li>🎓 Studying <strong>Computer Science</strong> at <strong>Birzeit University 🌲</strong> </li> 
 </p>
 <hr>
 
