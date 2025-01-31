@@ -7,6 +7,8 @@
 
 <hr>
 
+<hr>
+
 <h3 align="left">🚀 About Me:</h3>
 <p align="left"> 
 <li>🌟 Passionate developer with experience in <strong>Java</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and more. </li><br>
@@ -15,10 +17,12 @@
 <li>🌱 Currently exploring new tools and frameworks to sharpen my skillset.</li> <br>
 <li>🎓 Studying <strong>Computer Science</strong> at 
     <strong>Birzeit University</strong> 
-    <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/Birzeit_University_logo.svg.png" alt="Birzeit University Logo" width="30" height="35" style="vertical-align: middle; margin-top: 10px;"/>
+    <br><br> 
+    <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/Birzeit_University_logo.svg.png" alt="Birzeit University Logo" width="30" height="35"/>
 </li> <br>
 </p>
 <hr>
+
 
 
 
