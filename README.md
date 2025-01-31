@@ -37,7 +37,7 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> 
   <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="55" height="40"/>
 </p>
 <hr>
 
