@@ -2,8 +2,9 @@
 <h3 align="center">˚‧｡⋆🌻⋆｡‧˚ Bringing ideas to life, one line of code at a time! ˚‧｡⋆🌻⋆｡‧˚</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/ezgif-4FINALa4412566aa89.gif" alt="Your Image" width="400"/>
+  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/ezgif-4FINALa4412566aa89.gif" alt="Your Image" width="600"/>
 </p>
+
 
 <hr>
 
