@@ -46,8 +46,11 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" alt="Adobe XD" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Paint_tool_sai_icon_by_xnessax-d7ebi7q.png" alt="Paint Tool SAI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>
 </p>
 <hr>
+
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <!-- GitHub Stats Card -->
