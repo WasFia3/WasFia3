@@ -41,7 +41,7 @@
 </p>
 <hr>
 
-<h4>🎨 Design Tools:</h4>
+<h3>🎨 Design Tools:</h3>
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" alt="Adobe XD" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/> 
