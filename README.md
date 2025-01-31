@@ -29,25 +29,15 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 
-<h4>💻 Programming Languages:</h4>
+<h4>💻 Developing Tools:</h4>
 <p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
   <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-</p>
-<hr>
-
-<h4>🗄️ Databases:</h4>
-<p align="left"> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-</p>
-<hr>
-
-<h4>🛠️ Tools & Platforms:</h4>
-<p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> 
+   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> 
   <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="40" height="40"/>
 </p>
