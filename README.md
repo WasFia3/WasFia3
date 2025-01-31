@@ -16,7 +16,7 @@
 <li>🌱 Currently exploring new tools and frameworks to sharpen my skillset.</li> <br>
 <li>🎓 Studying <strong>Computer Science</strong> at 
     <strong>Birzeit University</strong> 
-    <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/Birzeit_University_logo.svg.png" alt="Birzeit University Logo" width="25" height="25"/>
+    <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/Birzeit_University_logo.svg.png" alt="Birzeit University Logo" width="30" height="35"/>
 </li> <br>
 </p>
 <hr>
