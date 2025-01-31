@@ -28,28 +28,29 @@
 
 <h3 align="left">💻🛠️ Developing Tools:</h3>
 
-<p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> 
-  <img src="https://img.icons8.com/fluency/48/000000/selenium-test-automation.png" alt="Selenium" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="55" height="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
+
 <hr>
 
 <h3>🎨 Design Tools:</h3>
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" alt="Adobe XD" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/sai.png" alt="Paint Tool SAI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/Canva.png" alt="Canva" width="55" height="40"/>
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
 </p>
+
 <hr>
+
 
 
 
