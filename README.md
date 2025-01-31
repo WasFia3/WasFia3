@@ -58,18 +58,19 @@
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wasfia3&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wasfia3&show_icons=true&theme=dark&bg_color=FF0000" alt="GitHub stats" />
 </p>
 
 <!-- Most-Used Languages -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasfia3&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=5" alt="Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasfia3&show_icons=true&theme=dark&bg_color=FF0000&locale=en&layout=compact&langs_count=5" alt="Most Used Languages" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasfia3&theme=radical" alt="GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasfia3&theme=dark&bg_color=FF0000" alt="GitHub Streak Stats" />
 </p>
 <hr>
+
 
 
