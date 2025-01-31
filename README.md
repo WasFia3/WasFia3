@@ -12,13 +12,17 @@
 <p align="left"> 
 <li>🌟 Passionate developer with experience in <strong>Java</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and more. </li><br>
 <li>💻 Always excited to learn new technologies and bring creative solutions to life.</li> <br>
-<li>🎨 A digital artist, so i'm blending creativity with code in all my projects.</li> <br>
+<li>🎨 A digital artist, so I'm blending creativity with code in all my projects.</li> <br>
 <li>🌱 Currently exploring new tools and frameworks to sharpen my skillset.</li> <br>
-<li>🎓 Studying <strong>Computer Science</strong> at <strong>Birzeit University</strong>.</li> <br>
+<li>🎓 Studying <strong>Computer Science</strong> at 
+    <strong>Birzeit University</strong> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Birzeit_University_Logo.png" alt="Birzeit University Logo" width="25" height="25"/>
+</li> <br>
 </p>
 <hr>
 
-<h3 align="left">🔗 Connect with me:</h3>
+
+<h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wasfia-awwad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="wasfia-awwad" height="50" width="50" /></a>
 <a href="https://instagram.com/helianthus04" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="helianthus04" height="50" width="50" /></a>
