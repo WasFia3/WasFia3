@@ -7,10 +7,6 @@
 
 <hr>
 
-<hr>
-
-<hr>
-
 <h3 align="left">🚀 About Me:</h3>
 <p align="left"> 
 <li>🌟 Passionate developer with experience in <strong>Java</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and more. </li><br>
@@ -20,9 +16,6 @@
 <li>🎓 Studying <strong>Computer Science</strong> at <strong>Birzeit University 🌲</strong> </li> 
 </p>
 <hr>
-
-
-
 
 
 <h3 align="left">🌐 Socials:</h3>
