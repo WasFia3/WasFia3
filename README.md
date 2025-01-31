@@ -47,7 +47,7 @@
   <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="Photoshop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/sai.png" alt="Paint Tool SAI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/Canva.png" alt="Canva" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/Canva.png" alt="Canva" width="40" height="55"/>
 </p>
 <hr>
 
