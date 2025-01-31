@@ -2,8 +2,9 @@
 <h3 align="center">˚‧｡⋆🌻⋆｡‧˚ Bringing ideas to life, one line of code at a time! ˚‧｡⋆🌻⋆｡‧˚</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/ezgif-4FINALa4412566aa89.gif" alt="Your Image" width="400"/>
 </p>
+
 <hr>
 
 <h3 align="left">🚀 About Me:</h3>
