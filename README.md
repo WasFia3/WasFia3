@@ -9,7 +9,6 @@
 
 <h3 align="left">🚀 About Me:</h3>
 <p align="left"> 
-<li>🌟 Passionate developer with experience in <strong>Java</strong>, <strong>Python</strong>, <strong>PHP</strong>, <strong>HTML</strong>, <strong>CSS</strong>, and more. </li><br>
 <li>💻 Always excited to learn new technologies and bring creative solutions to life.</li> <br>
 <li>🎨 A digital artist, so I'm blending creativity with code in all my projects.</li> <br>
 <li>🌱 Currently exploring new tools and frameworks to sharpen my skillset.</li> <br>
