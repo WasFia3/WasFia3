@@ -1,5 +1,5 @@
-<h1 align="center">Hello, this is Helian ঝ፠٠١ </h1>
-<h3 align="center">˚•.˚✿˚.•˚ Bringing ideas to life, one line of code at a time! ˚•.˚✿˚.•˚</h3>
+<h1 align="center">Hello, this is Helian ฅᨐฅ </h1>
+<h3 align="center">˚‧｡⋆🌻⋆｡‧˚ Bringing ideas to life, one line of code at a time! ˚‧｡⋆🌻⋆｡‧˚</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/ezgif-4FINALa4412566aa89.gif" alt="Your Image" width="700"/>
@@ -48,8 +48,12 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
+</p>
 
 <hr>
+
+
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
