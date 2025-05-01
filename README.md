@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/wasfia-awwad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="wasfia-awwad" height="50" width="50" /></a>
 <a href="https://instagram.com/helianthus04" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="helianthus04" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/wasfiasalam" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="wasfiasalam" height="50" width="50" /></a>
 </p>
 <hr>
 
