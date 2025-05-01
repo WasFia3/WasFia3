@@ -2,7 +2,7 @@
 <h3 align="center">˚‧｡⋆🌻⋆｡‧˚ Bringing ideas to life, one line of code at a time! ˚‧｡⋆🌻⋆｡‧˚</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/ezgif-4FINALa4412566aa89.gif" alt="Helian floating image" width="700"/>
+  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/helian.gif" alt="Helian floating image" width="700"/>
 </p>
 
 <hr>
