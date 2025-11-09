@@ -10,9 +10,15 @@
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wasfia-awwad" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="wasfia-awwad" height="50" width="50" /></a>
+  <a href="https://linkedin.com/in/wasfia-awwad" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="wasfia-awwad" height="50" width="50" />
+  </a>
+  <a href="https://www.facebook.com/wasfia.salam" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="wasfia.salam" height="50" width="50" />
+  </a>
 </p>
 <hr>
+
 
 <h3 align="left">💻🛠️ Developing Tools:</h3>
 
