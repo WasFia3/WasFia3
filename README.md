@@ -1,5 +1,4 @@
 <h1 align="center">Hello, this is WasFia ฅᨐฅ </h1>
-<h3 align="center">˚‧｡⋆🌻⋆｡‧˚ Bringing ideas to life, one line of code at a time! ˚‧｡⋆🌻⋆｡‧˚</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/helian.gif" alt="Helian floating image" width="300" height="300"/>
@@ -51,20 +50,3 @@
 
 
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<!-- GitHub Stats Card -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wasfia3&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<!-- Most-Used Languages -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasfia3&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=5" alt="Most Used Languages" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasfia3&theme=radical" alt="GitHub Streak Stats" />
-</p>
-<hr>
