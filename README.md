@@ -10,7 +10,7 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="wasfia.salam" height="50" width="50" />
   </a>
 </p>
-<hr>
+
 
 
 <h3 align="left">💻🛠️ Developing Tools:</h3>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-<hr>
+
 
 <h3>🎨 Design Tools:</h3>
 <p align="left"> 
@@ -47,7 +47,7 @@
   />
 </p>
 
-<hr>
+
 
 
 
