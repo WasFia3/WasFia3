@@ -1,10 +1,4 @@
-<h1 align="center">Hello, this is WasFia ฅᨐฅ </h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WasFia3/readmePic/main/helian.gif" alt="Helian floating image" width="300" height="300"/>
-</p>
-
-<hr>
+<h1 align="center">Heya</h1>
 
 
 <h3 align="left">🌐 Socials:</h3>
@@ -43,6 +37,14 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 </p>
+
+<h3 align="left">📊 Most Used Languages:</h3>
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasfia-awwad&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 <hr>
