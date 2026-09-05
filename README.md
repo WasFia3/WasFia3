@@ -6,8 +6,6 @@
 
 ### Computer Scientist & illustrator
 
-### 📊 task manager
-
 <img src="https://github-readme-stats.vercel.app/api?username=WasFia3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16303f&title_color=c8f5d8&icon_color=6fbf73&text_color=cfe0e6" width="47%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WasFia3&theme=tokyonight&hide_border=true&background=16303f&stroke=16303f&ring=6fbf73&fire=c7e86a&currStreakLabel=c8f5d8" width="47%" />
 
