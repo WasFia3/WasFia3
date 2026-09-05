@@ -2,8 +2,6 @@
 
 # `whoami` → WasFia3
 
-<img src="uploads/persona.png" width="96" height="96" alt="persona sprite" style="image-rendering:pixelated" />
-
 ### Computer Scientist & illustrator
 
 <img src="https://github-readme-stats.vercel.app/api?username=WasFia3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=16303f&title_color=c8f5d8&icon_color=6fbf73&text_color=cfe0e6" width="47%" />
