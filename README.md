@@ -11,10 +11,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4fa8d8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasfia-awwad/)
 [![Instagram](https://img.shields.io/badge/Instagram-2f8f6b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/totally_not_byte/)
 
-<div align="center">
-
-```
-it's now safe to scroll past this profile.
-```
-
-</div>
